@@ -1,12 +1,5 @@
 #!/bin/bash
 
-
-
-red=$(tput setaf 1)
-reset=$(tput sgr0)
-echo "${red}Made by kubsondos#0565 / @kubsond${reset}"
-
-
 read -p "Enter the internet domain: " domain
 
 
